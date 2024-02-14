@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Protect your account';
+$_['heading_title'] = 'Bảo vệ tài khoản của bạn';
 
 // Text
 $_['text_security'] = 'You must answer security question whenever you login from an unknown device or computer.';

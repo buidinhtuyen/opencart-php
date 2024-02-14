@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_points']                = 'Reward Points';
+$_['text_points']                = 'Điểm thưởng';
 $_['text_subscription']          = 'Subscription';
 $_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
 $_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
@@ -12,8 +12,8 @@ $_['text_month']                 = 'month';
 $_['text_year']                  = 'year';
 
 // Column
-$_['column_name']                = 'Product Name';
-$_['column_model']               = 'Model';
-$_['column_quantity']            = 'Quantity';
-$_['column_price']               = 'Unit Price';
-$_['column_total']               = 'Total';
+$_['column_name']                = 'Tên sản phẩm';
+$_['column_model']               = 'Mẫu';
+$_['column_quantity']            = 'Số lượng';
+$_['column_price']               = 'Đơn giá';
+$_['column_total']               = 'Tổng';

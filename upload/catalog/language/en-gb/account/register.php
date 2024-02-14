@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Register Account';
+$_['heading_title']        = 'Đăng ký tài khoản';
 
 // Text
 $_['text_account']         = 'Account';

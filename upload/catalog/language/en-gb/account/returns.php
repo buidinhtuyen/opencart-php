@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Product Returns';
+$_['heading_title']      = 'Sản phẩm hoàn trả';
 
 // Text
 $_['text_account']       = 'Account';

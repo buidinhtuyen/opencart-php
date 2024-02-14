@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Newsletter Subscription';
+$_['heading_title']    = 'Tin tức';
 
 // Text
 $_['text_account']     = 'Account';

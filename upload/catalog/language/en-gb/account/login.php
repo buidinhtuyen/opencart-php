@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Tài khoản đăng nhập';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
+$_['text_account']                 = 'Tài khoản';
+$_['text_login']                   = 'Đăng nhập';
+$_['text_new_customer']            = 'Khách hàng mới';
+$_['text_register']                = 'Đăng ký tài khoản';
 $_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
 $_['text_returning_customer']      = 'Returning Customer';
 $_['text_i_am_returning_customer'] = 'I am a returning customer';
